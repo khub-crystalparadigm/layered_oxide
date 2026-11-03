@@ -100,5 +100,3 @@ The `dopant_*` fields are numeric composition descriptors; they should not autom
 ## Use and reporting notes
 
 Differences in synthesis terminology, morphology labels, cell formats, electrolytes, current densities, C-rates, temperatures, voltage windows, and cycle definitions may affect cross-publication comparisons. For analyses or machine-learning tasks, document data filtering and missing-value handling, and consider grouping train/test splits by publication or material to reduce information leakage. Cite the underlying source publications when reusing their reported measurements.
-
-Before public release, add the dataset's persistent repository link/DOI and an explicit reuse license. This README documents the data file; it does not replace the journal's required *Data in Brief* article template or its data-access and methods sections.
